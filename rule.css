@@ -1,0 +1,13 @@
+books { 
+	color: white; 
+	background-color : black; 
+	width: 100%; 
+} 
+
+title, author, publisher, edition { 
+	display : table; 
+} 
+title { 
+	font-size : 25px; 
+	font-weight : bold;
+}
